@@ -26,12 +26,11 @@
 
 ---
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Senior Cloud Advocate contributing to the advancement and adoption of Microsoft technologies among students in Africa.
-
-- :seedling: I Create learning contents on Data and Tech.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- 🥑 I currently work as a Senior Cloud Advocate contributing to the advancement and adoption of Microsoft technologies among students in Africa.
+- ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
+- ⚡ I am available for speaking engagement on student empowerment
+- 🚴 In my free time, I love riding bicycle.
+- ⚽ A proud Manchester City fan
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theoyinbooke)
 
 ---
@@ -58,3 +57,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theoyinbooke&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoyinbooke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
