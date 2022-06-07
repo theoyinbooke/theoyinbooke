@@ -15,13 +15,12 @@
 <div id="badges2" align="center">
 <img src="https://komarev.com/ghpvc/?username=theoyinbooke&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my Github Profile Page
+  hey there! Welcome to my Github Profile Page
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://github.com/theoyinbooke/theoyinbooke/blob/main/TheOyinbookedynamicsCon.JPG" width="600" height="600"/>
+  <img src="https://github.com/theoyinbooke/theoyinbooke/blob/main/TheOyinbookedynamicsCon.JPG" width="550" height="550"/>
 </div>
 
 ---
